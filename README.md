@@ -1,4 +1,4 @@
-# Surprising properties of array slices in golang
+# Surprising properties of golang
 
 ```
 $ go run github.com/tlk/go-wat@latest
